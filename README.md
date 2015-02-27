@@ -1,0 +1,2 @@
+# naveensrinivasan-hugo
+hugo blog
